@@ -2,16 +2,16 @@
 
 Deployed live at [Expense Tracker App](https://sheapa.github.io/Expense-Tracker/)
 
-##About
+## About
 An application for tracking expenses over multiple years.
 
-##Tools + Languages
-JavaScript
-React
-CSS
-Visual Studio Code
+## Tools + Languages
+* JavaScript
+* React
+* CSS
+* Visual Studio Code
 
-##Method
+## Method
 1.) Create React App.
 2.) Write JavaScript and JSX.
 3.) Create stylesheets and add to project.
